@@ -6,6 +6,7 @@ public class MyTeamApp {
 		// TODO Auto-generated method stub
 		System.out.println("Notre premier projet de groupe 3 : lundi 12 juin 2023 15h00");
 		System.out.println("test branche");
+		System.out.println("test branche fonctionnalité Fred");
 	}
 
 }
